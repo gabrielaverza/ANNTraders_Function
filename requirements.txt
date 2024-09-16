@@ -1,0 +1,15 @@
+azure-core==1.31.0
+azure-functions==1.20.0
+azure-servicebus==7.12.2
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.10
+isodate==0.6.1
+psycopg2==2.9.9
+python-http-client==3.3.7
+requests==2.32.3
+sendgrid==6.11.0
+six==1.16.0
+starkbank-ecdsa==2.2.0
+typing_extensions==4.12.2
+urllib3==2.2.3

@@ -1,0 +1,12 @@
+{
+    "bindings": [
+      {
+        "type": "serviceBusTrigger",
+        "direction": "in",
+        "name": "msg",
+        "queueName": "anntraders_queue",
+        "connection": "AzureWebJobsServiceBus"
+      }
+    ]
+  }
+  
